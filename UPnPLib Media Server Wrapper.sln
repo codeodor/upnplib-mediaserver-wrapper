@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upnplib-mediaserver-wrapper", "upnplib-mediaserver-wrapper\upnplib-mediaserver-wrapper.csproj", "{B1506A72-806C-4EB3-B8E4-2995F7D76A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example-upnp-mediaserver-browser", "example-upnp-mediaserver-browser\example-upnp-mediaserver-browser.csproj", "{E1323239-78DA-422E-B054-10BE81A38657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1506A72-806C-4EB3-B8E4-2995F7D76A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1506A72-806C-4EB3-B8E4-2995F7D76A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1506A72-806C-4EB3-B8E4-2995F7D76A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1506A72-806C-4EB3-B8E4-2995F7D76A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1323239-78DA-422E-B054-10BE81A38657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1323239-78DA-422E-B054-10BE81A38657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1323239-78DA-422E-B054-10BE81A38657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1323239-78DA-422E-B054-10BE81A38657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
